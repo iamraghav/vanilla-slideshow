@@ -1,0 +1,10 @@
+{
+  "name": "vanilla-slideshow",
+  "version": "1.0.0",
+  "description": "a slideshow made by using pure javascript (vannila)",
+  "main": "main.js",
+  "repository": "git@github.com:iamraghav/vanilla-slideshow.git",
+  "author": "iamraghav <raghav3992@gmail.com>",
+  "license": "ISC",
+  "private": false
+}
